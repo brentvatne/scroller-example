@@ -1,0 +1,14 @@
+{
+  "name": "scroller-example",
+  "version": "0.0.0",
+  "description": "Hello Exponent!",
+  "author": "exponent.team@gmail.com",
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "@exponent/vector-icons": "^1.0.4",
+    "exponent": "10.0.0",
+    "react": "~15.3.1",
+    "react-native": "github:exponentjs/react-native#sdk-10.0.0"
+  }
+}
